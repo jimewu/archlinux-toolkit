@@ -1,0 +1,10 @@
+clamav-unofficial-sigs
+masterpdfeditor-free
+nvm
+oh-my-zsh-git
+rstudio-server-bin
+timeshift
+ttf-wps-fonts
+vscodium
+webcatalog-bin
+yay
